@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/starling
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+animation
+dir
+
+
+
+add
+
+utils
+dir
+
+
+
+add
+
+textures
+dir
+
+
+
+add
+
+events
+dir
+
+
+
+add
+
+text
+dir
+
+
+
+add
+
+display
+dir
+
+
+
+add
+
+core
+dir
+
+
+
+add
+
+filters
+dir
+
+
+
+add
+
+errors
+dir
+
+
+
+add
+

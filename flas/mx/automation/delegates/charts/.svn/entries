@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/automation/delegates/charts
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+SeriesAutomationImpl.as
+file
+
+
+
+add
+
+AxisRendererAutomationImpl.as
+file
+
+
+
+add
+
+CartesianChartAutomationImpl.as
+file
+
+
+
+add
+
+HLOCSeriesBaseAutomationImpl.as
+file
+
+
+
+add
+
+ChartBaseAutomationImpl.as
+file
+
+
+
+add
+
+LegendItemAutomationImpl.as
+file
+
+
+
+add
+
+LegendAutomationImpl.as
+file
+
+
+
+add
+
+BarSeriesAutomationImpl.as
+file
+
+
+
+add
+
+LineSeriesAutomationImpl.as
+file
+
+
+
+add
+
+AreaSeriesAutomationImpl.as
+file
+
+
+
+add
+
+BubbleSeriesAutomationImpl.as
+file
+
+
+
+add
+
+ColumnSeriesAutomationImpl.as
+file
+
+
+
+add
+
+PieSeriesAutomationImpl.as
+file
+
+
+
+add
+
+PlotSeriesAutomationImpl.as
+file
+
+
+
+add
+

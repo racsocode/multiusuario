@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/effects/effectClasses
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+PropertyChanges.as
+file
+
+
+
+add
+
+DissolveInstance.as
+file
+
+
+
+add
+
+AddChildActionInstance.as
+file
+
+
+
+add
+
+ActionEffectInstance.as
+file
+
+
+
+add
+
+ParallelInstance.as
+file
+
+
+
+add
+
+WipeDownInstance.as
+file
+
+
+
+add
+
+RotateInstance.as
+file
+
+
+
+add
+
+SetPropertyActionInstance.as
+file
+
+
+
+add
+
+TweenEffectInstance.as
+file
+
+
+
+add
+
+FadeInstance.as
+file
+
+
+
+add
+
+RemoveChildActionInstance.as
+file
+
+
+
+add
+
+ResizeInstance.as
+file
+
+
+
+add
+
+WipeRightInstance.as
+file
+
+
+
+add
+
+BlurInstance.as
+file
+
+
+
+add
+
+SoundEffectInstance.as
+file
+
+
+
+add
+
+MoveInstance.as
+file
+
+
+
+add
+
+IrisInstance.as
+file
+
+
+
+add
+
+SequenceInstance.as
+file
+
+
+
+add
+
+MaskEffectInstance.as
+file
+
+
+
+add
+
+GlowInstance.as
+file
+
+
+
+add
+
+WipeUpInstance.as
+file
+
+
+
+add
+
+SetStyleActionInstance.as
+file
+
+
+
+add
+
+AddRemoveEffectTargetFilter.as
+file
+
+
+
+add
+
+PauseInstance.as
+file
+
+
+
+add
+
+HideShowEffectTargetFilter.as
+file
+
+
+
+add
+
+CompositeEffectInstance.as
+file
+
+
+
+add
+
+WipeLeftInstance.as
+file
+
+
+
+add
+
+AnimatePropertyInstance.as
+file
+
+
+
+add
+
+ZoomInstance.as
+file
+
+
+
+add
+

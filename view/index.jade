@@ -1,0 +1,16 @@
+doctype 5
+html
+    head
+        title= title
+    body
+        object(classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000', width='810', height='600', id='player1', name='player1')
+           param(name='movie', value='swfs/main.swf')
+           param(name='allowfullscreen', value='true')
+           embed(id='player1',
+                  name='player1',
+                  src='swfs/main.swf'
+                  width='810',
+                  height='600',
+                  allowscriptaccess='always',
+                  allowfullscreen='true',
+                  flashvars="file=playlist.xml")

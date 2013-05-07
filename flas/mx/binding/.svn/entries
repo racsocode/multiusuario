@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/binding
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+Watcher.as
+file
+
+
+
+add
+
+utils
+dir
+
+
+
+add
+
+XMLWatcher.as
+file
+
+
+
+add
+
+RepeatableBinding.as
+file
+
+
+
+add
+
+PropertyWatcher.as
+file
+
+
+
+add
+
+FunctionReturnWatcher.as
+file
+
+
+
+add
+
+EvalBindingResponder.as
+file
+
+
+
+add
+
+RepeaterItemWatcher.as
+file
+
+
+
+add
+
+BindingManager.as
+file
+
+
+
+add
+
+IWatcherSetupUtil.as
+file
+
+
+
+add
+
+ArrayElementWatcher.as
+file
+
+
+
+add
+
+BindabilityInfo.as
+file
+
+
+
+add
+
+RepeaterComponentWatcher.as
+file
+
+
+
+add
+
+Binding.as
+file
+
+
+
+add
+

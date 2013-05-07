@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/controls/menuClasses
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+IMenuItemRenderer.as
+file
+
+
+
+add
+
+IMenuDataDescriptor.as
+file
+
+
+
+add
+
+IMenuBarItemRenderer.as
+file
+
+
+
+add
+
+MenuBarItem.as
+file
+
+
+
+add
+
+MenuItemRenderer.as
+file
+
+
+
+add
+

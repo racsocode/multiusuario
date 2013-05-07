@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/containers/utilityClasses
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+Layout.as
+file
+
+
+
+add
+
+Flex.as
+file
+
+
+
+add
+
+FlexChildInfo.as
+file
+
+
+
+add
+
+ApplicationLayout.as
+file
+
+
+
+add
+
+BoxLayout.as
+file
+
+
+
+add
+
+CanvasLayout.as
+file
+
+
+
+add
+

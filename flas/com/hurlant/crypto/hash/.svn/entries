@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/com/hurlant/crypto/hash
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+MAC.as
+file
+
+
+
+add
+
+IHMAC.as
+file
+
+
+
+add
+
+MD2.as
+file
+
+
+
+add
+
+SHA224.as
+file
+
+
+
+add
+
+MD5.as
+file
+
+
+
+add
+
+SHABase.as
+file
+
+
+
+add
+
+HMAC.as
+file
+
+
+
+add
+
+SHA256.as
+file
+
+
+
+add
+
+IHash.as
+file
+
+
+
+add
+
+SHA1.as
+file
+
+
+
+add
+

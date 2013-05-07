@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/automation/delegates/containers
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+CanvasAutomationImpl.as
+file
+
+
+
+add
+
+PanelAutomationImpl.as
+file
+
+
+
+add
+
+ViewStackAutomationImpl.as
+file
+
+
+
+add
+
+AccordionAutomationImpl.as
+file
+
+
+
+add
+
+DividedBoxAutomationImpl.as
+file
+
+
+
+add
+
+TabNavigatorAutomationImpl.as
+file
+
+
+
+add
+
+FormItemAutomationImpl.as
+file
+
+
+
+add
+
+ApplicationAutomationImpl.as
+file
+
+
+
+add
+
+FormAutomationImpl.as
+file
+
+
+
+add
+
+BoxAutomationImpl.as
+file
+
+
+
+add
+

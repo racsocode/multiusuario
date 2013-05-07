@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/com/hurlant/crypto/tls
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+TLSSocketEvent.as
+file
+
+
+
+add
+
+SSLSecurityParameters.as
+file
+
+
+
+add
+
+KeyExchanges.as
+file
+
+
+
+add
+
+TLSSecurityParameters.as
+file
+
+
+
+add
+
+SSLConnectionState.as
+file
+
+
+
+add
+
+MACs.as
+file
+
+
+
+add
+
+TLSConnectionState.as
+file
+
+
+
+add
+
+TLSConfig.as
+file
+
+
+
+add
+
+TLSEngine.as
+file
+
+
+
+add
+
+TLSTest.as
+file
+
+
+
+add
+
+SSLEvent.as
+file
+
+
+
+add
+
+ISecurityParameters.as
+file
+
+
+
+add
+
+TLSEvent.as
+file
+
+
+
+add
+
+CipherSuites.as
+file
+
+
+
+add
+
+IConnectionState.as
+file
+
+
+
+add
+
+TLSSocket.as
+file
+
+
+
+add
+
+BulkCiphers.as
+file
+
+
+
+add
+
+TLSError.as
+file
+
+
+
+add
+

@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/effects/easing
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+Quadratic.as
+file
+
+
+
+add
+
+Sine.as
+file
+
+
+
+add
+
+Back.as
+file
+
+
+
+add
+
+Circular.as
+file
+
+
+
+add
+
+Elastic.as
+file
+
+
+
+add
+
+Cubic.as
+file
+
+
+
+add
+
+Exponential.as
+file
+
+
+
+add
+
+Quartic.as
+file
+
+
+
+add
+
+Linear.as
+file
+
+
+
+add
+
+Bounce.as
+file
+
+
+
+add
+
+Quintic.as
+file
+
+
+
+add
+

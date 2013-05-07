@@ -1,0 +1,15 @@
+doctype 5
+html
+    head
+        title= title
+        script(src="/javascripts/socket.io.js")
+        script
+          var socket = io.connect('http://127.0.0.1:3010');
+          socket.on('news', function (data) {
+            console.log(data);
+            socket.emit('my other event', { my: 'data' });
+          });
+    body
+
+
+

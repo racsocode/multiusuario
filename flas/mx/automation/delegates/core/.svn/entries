@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/automation/delegates/core
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+ScrollControlBaseAutomationImpl.as
+file
+
+
+
+add
+
+UIComponentAutomationImpl.as
+file
+
+
+
+add
+
+ContainerAutomationImpl.as
+file
+
+
+
+add
+
+UITextFieldAutomationImpl.as
+file
+
+
+
+add
+
+RepeaterAutomationImpl.as
+file
+
+
+
+add
+

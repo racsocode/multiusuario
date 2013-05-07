@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/automation
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+AutomationID.as
+file
+
+
+
+add
+
+IAutomationTabularData.as
+file
+
+
+
+add
+
+Automation.as
+file
+
+
+
+add
+
+IAutomationObject.as
+file
+
+
+
+add
+
+IAutomationObjectHelper.as
+file
+
+
+
+add
+
+events
+dir
+
+
+
+add
+
+IAutomationMouseSimulator.as
+file
+
+
+
+add
+
+tabularData
+dir
+
+
+
+add
+
+AutomationIDPart.as
+file
+
+
+
+add
+
+IAutomationManager.as
+file
+
+
+
+add
+
+delegates
+dir
+
+
+
+add
+

@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/collections
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+XMLListAdapter.as
+file
+
+
+
+add
+
+ICollectionView.as
+file
+
+
+
+add
+
+ItemResponder.as
+file
+
+
+
+add
+
+IViewCursor.as
+file
+
+
+
+add
+
+ListCollectionView.as
+file
+
+
+
+add
+
+CursorBookmark.as
+file
+
+
+
+add
+
+IList.as
+file
+
+
+
+add
+
+Sort.as
+file
+
+
+
+add
+
+XMLListCollection.as
+file
+
+
+
+add
+
+ArrayCollection.as
+file
+
+
+
+add
+
+ArrayList.as
+file
+
+
+
+add
+
+errors
+dir
+
+
+
+add
+
+SortField.as
+file
+
+
+
+add
+

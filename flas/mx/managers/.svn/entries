@@ -1,0 +1,287 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/managers
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+SystemManager.as
+file
+
+
+
+add
+
+PopUpManagerImpl.as
+file
+
+
+
+add
+
+IDragManager.as
+file
+
+
+
+add
+
+IFocusManager.as
+file
+
+
+
+add
+
+SystemManagerGlobals.as
+file
+
+
+
+add
+
+ISystemManager.as
+file
+
+
+
+add
+
+dragClasses
+dir
+
+
+
+add
+
+SystemChildrenList.as
+file
+
+
+
+add
+
+CursorManagerImpl.as
+file
+
+
+
+add
+
+IToolTipManagerClient.as
+file
+
+
+
+add
+
+PopUpManagerChildList.as
+file
+
+
+
+add
+
+PopUpManager.as
+file
+
+
+
+add
+
+IToolTipManager.as
+file
+
+
+
+add
+
+IFocusManagerGroup.as
+file
+
+
+
+add
+
+HistoryManagerGlobals.as
+file
+
+
+
+add
+
+IHistoryManagerClient.as
+file
+
+
+
+add
+
+IHistoryManager.as
+file
+
+
+
+add
+
+ToolTipManagerImpl.as
+file
+
+
+
+add
+
+LayoutManager.as
+file
+
+
+
+add
+
+CursorManager.as
+file
+
+
+
+add
+
+FocusManager.as
+file
+
+
+
+add
+
+CursorManagerPriority.as
+file
+
+
+
+add
+
+HistoryManagerImpl.as
+file
+
+
+
+add
+
+MainLocalConnection.as
+file
+
+
+
+add
+
+ILayoutManagerClient.as
+file
+
+
+
+add
+
+ILayoutManager.as
+file
+
+
+
+add
+
+ICursorManager.as
+file
+
+
+
+add
+
+ToolTipManager.as
+file
+
+
+
+add
+
+IFocusManagerContainer.as
+file
+
+
+
+add
+
+layoutClasses
+dir
+
+
+
+add
+
+DragManagerImpl.as
+file
+
+
+
+add
+
+HistoryManager.as
+file
+
+
+
+add
+
+InitLocalConnection.as
+file
+
+
+
+add
+
+SystemRawChildrenList.as
+file
+
+
+
+add
+
+IFocusManagerComponent.as
+file
+
+
+
+add
+
+IPopUpManager.as
+file
+
+
+
+add
+
+DragManager.as
+file
+
+
+
+add
+

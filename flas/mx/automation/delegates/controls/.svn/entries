@@ -1,0 +1,301 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/automation/delegates/controls
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+ComboBaseAutomationImpl.as
+file
+
+
+
+add
+
+AlertFormAutomationImpl.as
+file
+
+
+
+add
+
+VideoDisplayAutomationImpl.as
+file
+
+
+
+add
+
+PopUpButtonAutomationImpl.as
+file
+
+
+
+add
+
+TileListItemRendererAutomationImpl.as
+file
+
+
+
+add
+
+MenuAutomationImpl.as
+file
+
+
+
+add
+
+TextInputAutomationImpl.as
+file
+
+
+
+add
+
+NumericStepperAutomationImpl.as
+file
+
+
+
+add
+
+NavBarAutomationImpl.as
+file
+
+
+
+add
+
+MenuItemRendererAutomationImpl.as
+file
+
+
+
+add
+
+ButtonAutomationImpl.as
+file
+
+
+
+add
+
+TextAreaAutomationImpl.as
+file
+
+
+
+add
+
+LabelAutomationImpl.as
+file
+
+
+
+add
+
+SliderAutomationImpl.as
+file
+
+
+
+add
+
+LinkBarAutomationImpl.as
+file
+
+
+
+add
+
+ScrollBarAutomationImpl.as
+file
+
+
+
+add
+
+CheckBoxAutomationImpl.as
+file
+
+
+
+add
+
+ProgressBarAutomationImpl.as
+file
+
+
+
+add
+
+ToolTipAutomationImpl.as
+file
+
+
+
+add
+
+RadioButtonAutomationImpl.as
+file
+
+
+
+add
+
+ListBaseContentHolderAutomationImpl.as
+file
+
+
+
+add
+
+TreeAutomationImpl.as
+file
+
+
+
+add
+
+ButtonBarAutomationImpl.as
+file
+
+
+
+add
+
+DateChooserAutomationImpl.as
+file
+
+
+
+add
+
+ToggleButtonBarAutomationImpl.as
+file
+
+
+
+add
+
+TreeItemRendererAutomationImpl.as
+file
+
+
+
+add
+
+ListBaseAutomationImpl.as
+file
+
+
+
+add
+
+AlertAutomationImpl.as
+file
+
+
+
+add
+
+MenuBarItemAutomationImpl.as
+file
+
+
+
+add
+
+ComboBoxAutomationImpl.as
+file
+
+
+
+add
+
+ListAutomationImpl.as
+file
+
+
+
+add
+
+ColorPickerAutomationImpl.as
+file
+
+
+
+add
+
+DataGridAutomationImpl.as
+file
+
+
+
+add
+
+ListItemRendererAutomationImpl.as
+file
+
+
+
+add
+
+DateFieldAutomationImpl.as
+file
+
+
+
+add
+
+DataGridItemRendererAutomationImpl.as
+file
+
+
+
+add
+
+SWFLoaderAutomationImpl.as
+file
+
+
+
+add
+
+TileBaseAutomationImpl.as
+file
+
+
+
+add
+
+MenuBarAutomationImpl.as
+file
+
+
+
+add
+

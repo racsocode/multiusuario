@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/mx/modules
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+ModuleBase.as
+file
+
+
+
+add
+
+ModuleManager.as
+file
+
+
+
+add
+
+ModuleManagerGlobals.as
+file
+
+
+
+add
+
+Module.as
+file
+
+
+
+add
+
+IModuleInfo.as
+file
+
+
+
+add
+
+ModuleLoader.as
+file
+
+
+
+add
+

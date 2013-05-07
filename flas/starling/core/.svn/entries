@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/starling/core
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+starling_internal.as
+file
+
+
+
+add
+
+TouchProcessor.as
+file
+
+
+
+add
+
+Starling.as
+file
+
+
+
+add
+
+StatsDisplay.as
+file
+
+
+
+add
+
+TouchMarker.as
+file
+
+
+
+add
+
+RenderSupport.as
+file
+
+
+
+add
+

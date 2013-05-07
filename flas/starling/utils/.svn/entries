@@ -1,0 +1,119 @@
+10
+
+dir
+0
+https://github.com/racsocode/multiusuario/trunk/flas/starling/utils
+https://github.com/racsocode/multiusuario
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a2509c4-0ac3-8730-e8a6-ce57b7db7bff
+
+Color.as
+file
+
+
+
+add
+
+formatString.as
+file
+
+
+
+add
+
+VAlign.as
+file
+
+
+
+add
+
+HAlign.as
+file
+
+
+
+add
+
+MatrixUtil.as
+file
+
+
+
+add
+
+RectangleUtil.as
+file
+
+
+
+add
+
+transformCoords.as
+file
+
+
+
+add
+
+VertexData.as
+file
+
+
+
+add
+
+deg2rad.as
+file
+
+
+
+add
+
+rad2deg.as
+file
+
+
+
+add
+
+AssetManager.as
+file
+
+
+
+add
+
+getNextPowerOfTwo.as
+file
+
+
+
+add
+
+ScaleMode.as
+file
+
+
+
+add
+
